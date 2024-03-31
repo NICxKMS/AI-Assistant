@@ -7,7 +7,7 @@
 # # 🔥 FILL THIS OUT FIRST! 🔥
 # # 🔥 GET YOUR GEMINI API KEY AT 🔥
 # # 🔥 https://g.co/ai/idxGetGeminiKey 🔥
-# API_KEY = 'AIzaSyBM0YCnXiWsQrMTn3QS9UKcRKUuQr6ZeM0'
+# API_KEY = ''
 
 # genai.configure(api_key=API_KEY)
 
@@ -72,7 +72,7 @@ import google.generativeai as genai
 # 🔥 FILL THIS OUT FIRST! 🔥
 # 🔥 GET YOUR GEMINI API KEY AT 🔥
 # 🔥 https://g.co/ai/idxGetGeminiKey 🔥
-API_KEY = 'AIzaSyBM0YCnXiWsQrMTn3QS9UKcRKUuQr6ZeM0'
+API_KEY = ''
 
 genai.configure(api_key=API_KEY)
 
